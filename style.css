@@ -1,0 +1,22 @@
+.dis-khoa {
+    display: none;
+}
+
+.dis-lop {
+    display: none;
+}
+
+
+.trRow:hover {
+    background-color: rgba(107, 112, 112, 0.4);
+    cursor: pointer;
+}
+
+#capNhatSV {
+    display: none;
+}
+
+body {
+    background-image: url('back.jpeg');
+    font-family: 'Roboto', sans-serif;
+}
